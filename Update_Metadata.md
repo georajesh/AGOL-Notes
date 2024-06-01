@@ -8,10 +8,7 @@
 from arcgis.gis import GIS
 import pandas as pd
 gis = GIS("home")
-```
 
-    /opt/conda/lib/python3.9/site-packages/arcgis/gis/__init__.py:703: UserWarning: You are logged on as rdulal@flemingcollege.ca_Fleming with an administrator role, proceed with caution.
-      warnings.warn(
 
 
 #### Search Group Items
